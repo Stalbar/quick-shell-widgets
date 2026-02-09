@@ -1,0 +1,17 @@
+module Launcher
+
+singleton Palette 1.0 Palette.qml
+singleton Motion 1.0 Motion.qml
+singleton Typography 1.0 Typography.qml
+singleton LauncherState 1.0 LauncherState.qml
+singleton Commands 1.0 Commands.qml
+singleton Tags 1.0 Tags.qml
+
+AppLauncher 1.0 AppLauncher.qml
+AppLauncherOverlay 1.0 AppLauncherOverlay.qml
+LauncherController 1.0 LauncherController.qml
+AppEntryDelegate 1.0 AppEntryDelegate.qml
+PinnedStrip 1.0 PinnedStrip.qml
+Chip 1.0 Chip.qml
+NoiseOverlay 1.0 NoiseOverlay.qml
+
